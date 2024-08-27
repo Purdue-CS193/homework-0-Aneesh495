@@ -1,7 +1,7 @@
 ## Aneesh's First CS193 Homework
-- I like the secret word thing in CS193
-- I like the useful things we learn in CS193
-- I like the icebreakers at the start of each class in CS193
+- I like the secret word thing in CS193.
+- I like the useful things we learn in CS193.
+- I like the icebreakers at the start of each class in CS193.
   
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
